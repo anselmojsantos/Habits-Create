@@ -67,7 +67,7 @@ form{
     justify-content:center;
 }
 .days{
-    display: flex;
+    display:flex;
     gap: 24px;
     margin-left:32px;
 }
